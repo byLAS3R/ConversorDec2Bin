@@ -11,9 +11,7 @@
  -  Pimiento
  -  * Lechuga
     *  * Apio
-     
 
-![\\disc\personal\ConversorDec2Bin]
 😉😔😊😳
  > [!NOTE]
 > Esto es una alerta!
