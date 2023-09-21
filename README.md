@@ -15,6 +15,10 @@
 😉😔😊😳
  > [!NOTE]
 > Esto es una alerta!
+
+
 > [!WARNING]
 > Esto es otra alerta.
+
+
 *** Esto es una línea horizontal
