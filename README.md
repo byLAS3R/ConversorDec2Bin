@@ -21,5 +21,4 @@
 > Esto es otra alerta.
 
 
-*** Esto es una línea horizontal ***
-___Esto es una linea horizontal___
+***
